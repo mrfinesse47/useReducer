@@ -1,11 +1,11 @@
 import Counter from "./Counter";
-import Todo from "./Todo";
+import TodoList from "./TodoList";
 
 function App() {
   return (
     <div className="App">
       {/* <Counter /> */}
-      <Todo />
+      <TodoList />
     </div>
   );
 }
